@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "398661187077",
+    "project_id": "onlinevotingsystem-d1cbb",
+    "storage_bucket": "onlinevotingsystem-d1cbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398661187077:android:08b5a2da9f61da11808e6c",
+        "android_client_info": {
+          "package_name": "com.onlie.voting.onlinevotingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398661187077-8d6eifkqrcdcvpn4tq8dam2avrs4qaui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlie.voting.onlinevotingsystem",
+            "certificate_hash": "f5cbd225792c5c8354750c32f29f7b295bd39c75"
+          }
+        },
+        {
+          "client_id": "398661187077-u9ns35fodm04ej4u0cd3lm8s5om0phe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOyaSLnv-AFuP4b6mKkn5TWZNJSQLWJJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398661187077-u9ns35fodm04ej4u0cd3lm8s5om0phe1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
